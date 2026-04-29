@@ -6,8 +6,7 @@ Special thanks to [@unable2access](https://github.com/unable2access) for helping
 |  After Effects version  |  Wine version  |  Installs properly  |  Workarounds  |  Runs properly  |
 | :--- | :--- | :--- | :--- | :--- |
 |  CC 2014  |  wine-11.7  |  Yes  |  Turn internet off during installation  |  ☑️ Works properly with font error spam and index error spam after splash screen, motion blur not working  |
-|  CC 2015.3  |  wine-11.7  |  Yes  |  Turn internet off during installation  |  ☑️ Works properly with font error spam and index error spam after splash screen, motion blur not working  |
-|  CC 2017  |  wine-11.7  |  Yes  |  None  |  ❎ Not working, stuck on "Initializing MediaCore..."  |
+|  CC 2015.3  |  wine-11.7  |  Yes  |  Turn internet off during installation  |  ☑️ Works properly with font error spam and index error spam after splash screen
 |  CC 2018  |  _not yet tested_  |  _not yet tested_  |  _not yet tested_  |  _not yet tested_  |
 |  CC 2019  |  _not yet tested_  |  _not yet tested_  |  _not yet tested_  |  _not yet tested_  |
 |  CC 2020 (18.0)  |  wine-11.7  |  Yes  |  None  |  ❎ Not working, stuck on "Initializing MediaCore..."  |
