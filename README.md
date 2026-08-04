@@ -1,5 +1,4 @@
 # Run Adobe After Effects on Linux
-Literally as the title said.\
 Special thanks to [@unable2access](https://github.com/unable2access) for helping me A LOT, also shout out to [this](https://github.com/relativemodder/aegnux) repository for setting up things that are simply "I'm too lazy to do it" type shi- /hj
 
 ## Current supported versions
