@@ -31,7 +31,7 @@ Special thanks to [@unable2access](https://github.com/unable2access) for helping
 - Your time to do all of these.
 ### Disclaimer
 This by any means are not meant to be a Windows/macOS replacement as what Adobe is natively runs on, I do this for fun and I believe Adobe _should_ consider the Linux version of their programs.
-> Of course it's merely impossible from a capitalist corporate who took subscriptions like a contract between someone's relationship who didn't make it lol
+> _Of course it's merely impossible from a capitalist corporate who took subscriptions like a contract between someone's relationship who didn't make it lol_
 
 Okay, enough ranting. Let's get back on track!
 
